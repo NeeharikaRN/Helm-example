@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx-demo:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-08-31T12:24:34.186652096Z"
+    description: A Helm chart for Kubernetes
+    digest: 205de07962db6b756092daa49e4e8cbadb4bf41dfd622ba9b3391c9cdb8d56d9
+    name: nginx-demo
+    type: application
+    urls:
+    - https://neeharikarn.github.io/Helm-example/nginx-demo-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-08-31T12:24:34.185992784Z"
